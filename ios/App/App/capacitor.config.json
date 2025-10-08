@@ -1,0 +1,6 @@
+{
+	"appId": "com.loginov.nova",
+	"appName": "nova",
+	"webDir": "dist",
+	"packageClassList": []
+}
